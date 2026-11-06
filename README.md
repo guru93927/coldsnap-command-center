@@ -1,5 +1,7 @@
 # Cold-Snap Command Center
 
+[![tests](https://github.com/guru93927/coldsnap-command-center/actions/workflows/tests.yml/badge.svg)](https://github.com/guru93927/coldsnap-command-center/actions/workflows/tests.yml)
+
 **AI winter operations for residential property management.** One agent watches a portfolio of buildings before and during a cold snap. It plans prevention from the forecast and the building's own documents. During the night it turns a flood of tenant messages into one incident, one work order and live updates for every tenant in their language.
 
 > All data is synthetic: three fictional buildings in Düsseldorf and Essen, fictional tenants, firms and policies. No real personal data is used.
@@ -68,7 +70,7 @@ The prevention plan had already told the manager to replace the worn part two da
 
 **Requirements:** Python 3.10+ and VS Code with the Python extension. You need no API key and no internet.
 
-1. Clone the repository and open the folder in VS Code (*File → Open Folder*).
+1. Clone it (`git clone https://github.com/guru93927/coldsnap-command-center.git`) and open the folder in VS Code (*File → Open Folder*).
 2. Open a terminal (*Terminal → New Terminal*) and create a virtual environment:
 
    **Windows (PowerShell)**
