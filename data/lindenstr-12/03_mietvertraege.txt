@@ -1,0 +1,54 @@
+MIETVERTRÄGE – AUSZUG (relevante Klauseln)  (SYNTHETISCH, fiktive Personen)
+=================================================================
+
+---
+Einheit: WE01
+Warmmiete: 890
+Mieter: Familie Becker
+Sprache: de
+Mietbeginn: 2014-04-01
+Kleinreparaturklausel: nein
+---
+Einheit: WE02
+Warmmiete: 940
+Mieter: Mehmet und Ayşe Demir
+Sprache: tr
+Mietbeginn: 2021-09-01
+Kleinreparaturklausel: ja
+Kleinreparatur Einzelbetrag max: 100
+Kleinreparatur Jahresbetrag max: 400
+---
+Einheit: WE03
+Warmmiete: 870
+Mieter: Sarah Collins
+Sprache: en
+Mietbeginn: 2024-02-01
+Kleinreparaturklausel: ja
+Kleinreparatur Einzelbetrag max: 110
+Kleinreparatur Jahresbetrag max: 450
+Mitvermietet: Einbauküche inkl. Geschirrspüler
+---
+Einheit: WE04
+Warmmiete: 950
+Mieter: Jonas Weber
+Sprache: de
+Mietbeginn: 2019-06-01
+Kleinreparaturklausel: ja
+Kleinreparatur Einzelbetrag max: 80
+Kleinreparatur Jahresbetrag max: 300
+---
+Einheit: WE05
+Warmmiete: 860
+Mieter: Layla Haddad
+Sprache: en
+Mietbeginn: 2022-11-01
+Kleinreparaturklausel: ja
+Kleinreparatur Einzelbetrag max: 100
+Kleinreparatur Jahresbetrag max: 400
+---
+Einheit: WE06
+Warmmiete: 1010
+Mieter: Klaus Hoffmann
+Sprache: de
+Mietbeginn: 2008-01-01
+Kleinreparaturklausel: nein

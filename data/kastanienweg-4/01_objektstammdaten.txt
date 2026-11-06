@@ -1,0 +1,38 @@
+OBJEKTSTAMMDATEN  (SYNTHETISCHE DEMO-DATEN – fiktives Objekt)
+=================================================================
+Objekt-ID: OBJ-KAST4
+Adresse: Kastanienweg 4, 45127 Essen
+Baujahr: 1958
+Heizung: Fernwärme (Übergabestation Stadtwerke), Warmwasser zentral
+Koordinaten: 51.4556, 7.0116
+Winterdienst: laut Hausordnung durch Mieter EG (keine Regelung im Mietvertrag)
+Eigentümer: Familie Ostrowski (fiktiv)
+Verwaltung seit: 01.09.2026
+
+EINHEITEN
+---
+Einheit: KW-01
+Lage: EG links
+Fläche: 55 m²
+---
+Einheit: KW-02
+Lage: EG rechts
+Fläche: 58 m²
+---
+Einheit: KW-03
+Lage: 1. OG links
+Fläche: 55 m²
+Leerstand: ja
+Besonderheit: Leerstand seit 2026-09-15 (Sanierung Bad, Arbeiten pausiert)
+---
+Einheit: KW-04
+Lage: 1. OG rechts
+Fläche: 58 m²
+---
+Einheit: KW-05
+Lage: 2. OG links
+Fläche: 55 m²
+---
+Einheit: KW-06
+Lage: 2. OG rechts
+Fläche: 58 m²

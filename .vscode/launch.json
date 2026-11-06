@@ -1,0 +1,45 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "1. Run web app (http://localhost:8000)",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "uvicorn",
+      "args": ["app.api:app", "--reload", "--port", "8000"],
+      "cwd": "${workspaceFolder}",
+      "env": {"PYTHONUTF8": "1"},
+      "jinja": false,
+      "justMyCode": true
+    },
+    {
+      "name": "2. Cold-night simulation (terminal)",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "app.simulate",
+      "args": ["--timeline"],
+      "cwd": "${workspaceFolder}",
+      "env": {"PYTHONUTF8": "1"},
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "3. Build Building Memory (ingest)",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "app.ingest",
+      "cwd": "${workspaceFolder}",
+      "env": {"PYTHONUTF8": "1"},
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "4. Triage eval (dev + holdout)",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "eval.run_eval",
+      "args": ["--misses"],
+      "cwd": "${workspaceFolder}",
+      "env": {"PYTHONUTF8": "1"},
+      "console": "integratedTerminal"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+OBJEKTSTAMMDATEN  (SYNTHETISCHE DEMO-DATEN – fiktives Objekt)
+=================================================================
+Objekt-ID: OBJ-LIND12
+Adresse: Lindenstraße 12, 40233 Düsseldorf
+Baujahr: 1962
+Kernsanierung: 2019 (Elektrik, Bäder teilweise)
+Wohneinheiten: 6
+Heizung: Zentralheizung Gas-Brennwert, Warmwasser zentral mit Zirkulation
+Keller: ja (Heizungsraum, Waschkeller, Mieterkeller)
+Dachgeschoss: ausgebaut (WE06)
+Koordinaten: 51.2277, 6.8018
+Winterdienst: Vertrag V10 (Gehweg und Zugang, Mo-Sa ab 7 Uhr, So ab 9 Uhr)
+Eigentümer: Erbengemeinschaft Albers (fiktiv)
+Verwaltung seit: 01.08.2026 (Übernahme von Altverwaltung "Hausverwaltung Kremer")
+
+EINHEITEN
+---
+Einheit: WE01
+Lage: EG links
+Fläche: 68 m²
+---
+Einheit: WE02
+Lage: EG rechts
+Fläche: 72 m²
+---
+Einheit: WE03
+Lage: 1. OG links
+Fläche: 64 m²
+Ausstattung: Einbauküche (vom Vermieter gestellt) inkl. Geschirrspüler
+---
+Einheit: WE04
+Lage: 1. OG rechts
+Fläche: 72 m²
+---
+Einheit: WE05
+Lage: 2. OG links
+Fläche: 64 m²
+---
+Einheit: WE06
+Lage: 2. OG rechts / Dachgeschoss
+Fläche: 81 m²
+Besonderheit: Dachschrägen, direkt unter dem Dach

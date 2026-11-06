@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+data/building_memory.json
+eval/results_*.json
+.DS_Store

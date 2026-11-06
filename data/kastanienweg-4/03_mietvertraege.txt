@@ -1,0 +1,45 @@
+MIETVERTRÄGE – AUSZUG  (SYNTHETISCH, fiktive Personen)
+=================================================================
+---
+Einheit: KW-01
+Warmmiete: 690
+Mieter: Gerda Nowak
+Sprache: de
+Mietbeginn: 1996-04-01
+Kleinreparaturklausel: nein
+---
+Einheit: KW-02
+Warmmiete: 720
+Mieter: Marco Bianchi
+Sprache: en
+Mietbeginn: 2022-01-01
+Kleinreparaturklausel: ja
+Kleinreparatur Einzelbetrag max: 100
+Kleinreparatur Jahresbetrag max: 400
+---
+Einheit: KW-04
+Warmmiete: 715
+Mieter: Fatma Aydın
+Sprache: tr
+Mietbeginn: 2018-07-01
+Kleinreparaturklausel: ja
+Kleinreparatur Einzelbetrag max: 100
+Kleinreparatur Jahresbetrag max: 400
+---
+Einheit: KW-05
+Warmmiete: 700
+Mieter: Jan Kowalski
+Sprache: de
+Mietbeginn: 2021-11-01
+Kleinreparaturklausel: ja
+Kleinreparatur Einzelbetrag max: 100
+Kleinreparatur Jahresbetrag max: 400
+---
+Einheit: KW-06
+Warmmiete: 730
+Mieter: Sophie Martin
+Sprache: en
+Mietbeginn: 2024-09-01
+Kleinreparaturklausel: ja
+Kleinreparatur Einzelbetrag max: 110
+Kleinreparatur Jahresbetrag max: 450

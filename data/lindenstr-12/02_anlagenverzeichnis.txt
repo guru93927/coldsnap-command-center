@@ -1,0 +1,88 @@
+ANLAGEN- UND BAUTEILVERZEICHNIS  Lindenstraße 12  (SYNTHETISCH)
+=================================================================
+Hinweis Altverwaltung: zusammengestellt aus Rechnungen und Ordnern, ohne Gewähr.
+
+---
+Anlage: A-HEIZ-01
+Bezeichnung: Gas-Brennwertkessel Thermatec VX-200
+Kategorie: heating
+Ort: Keller / Heizungsraum
+Betrifft: Gebäude
+Einbau: 2022-09-14
+Errichter: V02
+Gewährleistung bis: 2027-09-14
+Wartungsvertrag: unklar
+Wartung durch: V02
+---
+Anlage: A-ZIRK-01
+Bezeichnung: Warmwasser-Zirkulationspumpe
+Kategorie: hot_water
+Ort: Keller / Heizungsraum
+Betrifft: Gebäude
+Einbau: 2019-04-02
+Errichter: V02
+Gewährleistung bis: 2021-04-02
+---
+Anlage: A-STEIG-01
+Bezeichnung: Trinkwasser-Steigleitungen Kupfer (Strang Bad/Küche)
+Kategorie: water_pipes
+Ort: Steigschacht alle Etagen
+Betrifft: Gebäude
+Einbau: 2022-05-20
+Errichter: V01
+Gewährleistung bis: 2027-05-20
+---
+Anlage: A-FENST-01
+Bezeichnung: Kunststofffenster 3-fach-Verglasung
+Kategorie: window_glass
+Ort: alle Einheiten
+Betrifft: Gebäude
+Einbau: 2023-06-15
+Errichter: V05
+Gewährleistung bis: 2028-06-15
+---
+Anlage: A-DACH-01
+Bezeichnung: Dacheindeckung Ziegel
+Kategorie: roof
+Ort: Dach
+Betrifft: Gebäude
+Einbau: 1998-07-01
+Errichter: unbekannt
+Gewährleistung bis: keine
+---
+Anlage: A-TUER-01
+Bezeichnung: Haustür mit Schließanlage
+Kategorie: lock_door
+Ort: Eingang
+Betrifft: Gebäude
+Einbau: 2024-03-01
+Errichter: V04
+Gewährleistung bis: 2026-03-01
+---
+Anlage: A-ELEK-01
+Bezeichnung: Elektroverteilung und Steigleitungen Strom
+Kategorie: electrical
+Ort: Keller / alle Einheiten
+Betrifft: Gebäude
+Einbau: 2019-02-10
+Errichter: V03
+Gewährleistung bis: 2024-02-10
+---
+Anlage: A-SPUEL-WE03
+Bezeichnung: Geschirrspüler (Einbauküche WE03)
+Kategorie: appliance
+Ort: WE03 Küche
+Betrifft: WE03
+Einbau: 2025-02-10
+Errichter: V03
+Gewährleistung bis: 2027-02-10
+---
+Anlage: A-RAUCH-01
+Bezeichnung: Rauchwarnmelder (alle Einheiten)
+Kategorie: smoke_detector
+Ort: alle Einheiten
+Betrifft: Gebäude
+Einbau: 2017-05-01
+Errichter: unbekannt
+Gewährleistung bis: keine
+Letzte Wartung: 2024-10-08

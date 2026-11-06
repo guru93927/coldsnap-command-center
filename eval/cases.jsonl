@@ -1,0 +1,43 @@
+{"id":1,"unit":"WE03","message":"There is water dripping from the bathroom ceiling, quite a lot of water everywhere","category":"water_leak","urgency":"emergency","cost_bearer":"warranty","vendor":"V01"}
+{"id":2,"unit":"WE01","message":"Wasserfleck an der Wand im Bad, wird größer","category":"water_leak","urgency":"urgent","cost_bearer":"warranty","vendor":"V01"}
+{"id":3,"unit":"WE02","message":"Banyo tavanından su damlıyor","category":"water_leak","urgency":"urgent","cost_bearer":"warranty","vendor":"V01"}
+{"id":4,"unit":"WE04","message":"Der Wasserhahn in der Küche tropft","category":"water_leak","urgency":"normal","cost_bearer":"landlord","vendor":"V01","note":"tap ~90 EUR is above this lease's 80 EUR cap"}
+{"id":5,"unit":"WE03","message":"The kitchen tap is dripping","category":"water_leak","urgency":"normal","cost_bearer":"tenant_small_repair","vendor":"V01"}
+{"id":6,"unit":"WE01","message":"Der Wasserhahn im Bad tropft ständig","category":"water_leak","urgency":"normal","cost_bearer":"landlord","vendor":"V01","note":"2014 lease has no small-repair clause"}
+{"id":7,"unit":"WE05","message":"My shower drain is clogged","category":"water_leak","urgency":"normal","cost_bearer":"tenant_small_repair","vendor":"V01"}
+{"id":8,"unit":"WE02","message":"Lavabo tıkandı, su gitmiyor","category":"water_leak","urgency":"normal","cost_bearer":"tenant_small_repair","vendor":"V01"}
+{"id":9,"unit":"WE02","message":"Sıcak su yok, sabahları duş soğuk","category":"hot_water","urgency":"urgent","cost_bearer":"landlord","vendor":"V02","expect_flag":"Recurring"}
+{"id":10,"unit":"WE04","message":"Seit gestern kein warmes Wasser","category":"hot_water","urgency":"urgent","cost_bearer":"landlord","vendor":"V02","expect_flag":"Recurring"}
+{"id":11,"unit":"WE06","message":"Die Heizung bleibt kalt, alle Heizkörper","category":"heating","urgency":"urgent","cost_bearer":"warranty","vendor":"V02"}
+{"id":12,"unit":"WE05","message":"The heating isn't working, the radiators are cold","category":"heating","urgency":"urgent","cost_bearer":"warranty","vendor":"V02"}
+{"id":13,"unit":"WE03","message":"The thermostat on my bedroom radiator is broken","category":"heating","urgency":"normal","cost_bearer":"tenant_small_repair","vendor":"V02"}
+{"id":14,"unit":"WE01","message":"Der Thermostatkopf am Heizkörper ist abgebrochen","category":"heating","urgency":"normal","cost_bearer":"landlord","vendor":"V02"}
+{"id":15,"unit":"WE04","message":"Steckdose im Wohnzimmer funktioniert nicht","category":"electrical","urgency":"normal","cost_bearer":"tenant_small_repair","vendor":"V03"}
+{"id":16,"unit":"WE06","message":"Funken aus der Steckdose und Brandgeruch!","category":"electrical","urgency":"emergency","cost_bearer":"landlord","vendor":"V03"}
+{"id":17,"unit":"WE02","message":"Evde hiç elektrik yok, sigorta atmıyor","category":"electrical","urgency":"urgent","cost_bearer":"landlord","vendor":"V03"}
+{"id":18,"unit":"WE05","message":"Smoke detector in the hallway keeps beeping","category":"smoke_detector","urgency":"normal","cost_bearer":"landlord","vendor":"V08","expect_flag":"maintenance overdue"}
+{"id":19,"unit":"WE01","message":"Es riecht im Treppenhaus nach Gas!","category":"gas","urgency":"emergency","cost_bearer":"landlord","vendor":"V02"}
+{"id":20,"unit":"WE03","message":"I smell gas in the kitchen","category":"gas","urgency":"emergency","cost_bearer":"landlord","vendor":"V02"}
+{"id":21,"unit":"WE05","message":"I accidentally broke the kitchen window with a pan","category":"window_glass","urgency":"urgent","cost_bearer":"tenant","vendor":"V05"}
+{"id":22,"unit":"WE04","message":"Die Fensterscheibe im Schlafzimmer ist gesprungen","category":"window_glass","urgency":"urgent","cost_bearer":"insurance","vendor":"V05"}
+{"id":23,"unit":"WE02","message":"Yatak odası penceresi kapanmıyor","category":"window_glass","urgency":"urgent","cost_bearer":"warranty","vendor":"V05"}
+{"id":24,"unit":"WE06","message":"Der Fenstergriff ist locker","category":"window_glass","urgency":"normal","cost_bearer":"warranty","vendor":"V05"}
+{"id":25,"unit":"WE06","message":"Nach dem Sturm gestern tropft es durch die Dachschräge","category":"roof","urgency":"urgent","cost_bearer":"insurance","vendor":"V06"}
+{"id":26,"unit":"WE06","message":"Water is coming through the roof during the storm, a lot of water","category":"roof","urgency":"emergency","cost_bearer":"insurance","vendor":"V06"}
+{"id":27,"unit":"WE06","message":"Feuchter Fleck an der Dachschräge, wird langsam größer","category":"roof","urgency":"urgent","cost_bearer":"landlord","vendor":"V06","note":"no storm: wear and tear is not insured"}
+{"id":28,"unit":"WE01","message":"Ich habe mich ausgesperrt, der Schlüssel steckt innen","category":"lock_door","urgency":"urgent","cost_bearer":"tenant","vendor":"V04"}
+{"id":29,"unit":"WE03","message":"I lost my keys and can't get in","category":"lock_door","urgency":"urgent","cost_bearer":"tenant","vendor":"V04"}
+{"id":30,"unit":"WE02","message":"Apartman kapısı kilitlenmiyor","category":"lock_door","urgency":"urgent","cost_bearer":"landlord","vendor":"V04"}
+{"id":31,"unit":"WE04","message":"Mein Briefkastenschloss klemmt schon wieder","category":"lock_door","urgency":"normal","cost_bearer":"tenant_small_repair","vendor":"V08"}
+{"id":32,"unit":"WE03","message":"The dishwasher stopped draining","category":"appliance","urgency":"normal","cost_bearer":"warranty","vendor":"V03","note":"landlord-supplied dishwasher, in warranty"}
+{"id":33,"unit":"WE01","message":"Unsere Spülmaschine ist kaputt","category":"appliance","urgency":"normal","cost_bearer":"tenant","vendor":null,"note":"tenant's own appliance"}
+{"id":34,"unit":"WE05","message":"My washing machine is leaking water onto the floor","category":"appliance","urgency":"normal","cost_bearer":"tenant","vendor":null}
+{"id":35,"unit":"WE02","message":"Bodrumda fare var","category":"pest","urgency":"urgent","cost_bearer":"landlord","vendor":"V07"}
+{"id":36,"unit":"WE05","message":"There are mice in the basement storage","category":"pest","urgency":"urgent","cost_bearer":"landlord","vendor":"V07"}
+{"id":37,"unit":"WE04","message":"Schimmel in der Ecke im Schlafzimmer","category":"mould","urgency":"normal","cost_bearer":"assessment_required","vendor":"V09"}
+{"id":38,"unit":"WE03","message":"Black mould is growing behind the wardrobe","category":"mould","urgency":"normal","cost_bearer":"assessment_required","vendor":"V09"}
+{"id":39,"unit":"WE05","message":"My son threw a ball and cracked the living room window","category":"window_glass","urgency":"urgent","cost_bearer":"tenant","vendor":"V05"}
+{"id":40,"unit":"WE01","message":"Seit heute morgen kein warmes Wasser in der Dusche","category":"hot_water","urgency":"urgent","cost_bearer":"landlord","vendor":"V02","expect_flag":"Recurring"}
+{"id":41,"unit":"WE06","message":"Wasser läuft aus der Wand im Bad, hört nicht auf!","category":"water_leak","urgency":"emergency","cost_bearer":"warranty","vendor":"V01"}
+{"id":42,"unit":"WE04","message":"The light switch in the hallway is broken","category":"electrical","urgency":"normal","cost_bearer":"tenant_small_repair","vendor":"V03"}
+{"id":43,"unit":"WE05","message":"My neighbour plays loud music every night","category":"other","urgency":"normal","cost_bearer":"manager_review","vendor":null}

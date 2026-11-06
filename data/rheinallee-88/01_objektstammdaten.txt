@@ -1,0 +1,45 @@
+OBJEKTSTAMMDATEN  (SYNTHETISCHE DEMO-DATEN – fiktives Objekt)
+=================================================================
+Objekt-ID: OBJ-RHEIN88
+Adresse: Rheinallee 88, 40545 Düsseldorf
+Baujahr: 1974
+Heizung: Zentralheizung Gas-Niedertemperaturkessel (2006); Warmwasser dezentral (elektrische Durchlauferhitzer)
+Koordinaten: 51.2316, 6.7563
+Winterdienst: Vertrag V10 (Gehweg, Zugang, Tiefgarageneinfahrt, Mo-Sa ab 7 Uhr, So ab 9 Uhr)
+Eigentümer: WEG Rheinallee 88 (fiktiv)
+Verwaltung seit: 01.03.2026
+
+EINHEITEN
+---
+Einheit: RA-01
+Lage: EG links
+Fläche: 74 m²
+---
+Einheit: RA-02
+Lage: EG rechts
+Fläche: 61 m²
+---
+Einheit: RA-03
+Lage: 1. OG links
+Fläche: 74 m²
+---
+Einheit: RA-04
+Lage: 1. OG rechts
+Fläche: 61 m²
+---
+Einheit: RA-05
+Lage: 2. OG links
+Fläche: 74 m²
+---
+Einheit: RA-06
+Lage: 2. OG rechts
+Fläche: 61 m²
+---
+Einheit: RA-07
+Lage: 3. OG links
+Fläche: 74 m²
+---
+Einheit: RA-08
+Lage: 3. OG rechts / Dachgeschoss
+Fläche: 66 m²
+Besonderheit: direkt unter dem Dach

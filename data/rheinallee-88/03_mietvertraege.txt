@@ -1,0 +1,70 @@
+MIETVERTRÄGE – AUSZUG  (SYNTHETISCH, fiktive Personen)
+=================================================================
+---
+Einheit: RA-01
+Warmmiete: 1080
+Mieter: Emre Kaya
+Sprache: tr
+Mietbeginn: 2020-05-01
+Kleinreparaturklausel: ja
+Kleinreparatur Einzelbetrag max: 100
+Kleinreparatur Jahresbetrag max: 400
+---
+Einheit: RA-02
+Warmmiete: 890
+Mieter: Petra Lange
+Sprache: de
+Mietbeginn: 2011-03-01
+Kleinreparaturklausel: nein
+---
+Einheit: RA-03
+Warmmiete: 1095
+Mieter: Familie Schulte
+Sprache: de
+Mietbeginn: 2017-08-01
+Kleinreparaturklausel: ja
+Kleinreparatur Einzelbetrag max: 100
+Kleinreparatur Jahresbetrag max: 400
+---
+Einheit: RA-04
+Warmmiete: 905
+Mieter: Thomas Richter
+Sprache: de
+Mietbeginn: 2015-01-01
+Kleinreparaturklausel: nein
+---
+Einheit: RA-05
+Warmmiete: 1110
+Mieter: Priya Nair
+Sprache: en
+Mietbeginn: 2023-10-01
+Kleinreparaturklausel: ja
+Kleinreparatur Einzelbetrag max: 110
+Kleinreparatur Jahresbetrag max: 450
+---
+Einheit: RA-06
+Warmmiete: 910
+Mieter: Daniel Okafor
+Sprache: en
+Mietbeginn: 2024-04-01
+Kleinreparaturklausel: ja
+Kleinreparatur Einzelbetrag max: 110
+Kleinreparatur Jahresbetrag max: 450
+---
+Einheit: RA-07
+Warmmiete: 1120
+Mieter: Familie Wagner
+Sprache: de
+Mietbeginn: 2019-02-01
+Kleinreparaturklausel: ja
+Kleinreparatur Einzelbetrag max: 100
+Kleinreparatur Jahresbetrag max: 400
+---
+Einheit: RA-08
+Warmmiete: 980
+Mieter: Lena und Ali Yıldız
+Sprache: de
+Mietbeginn: 2025-06-01
+Kleinreparaturklausel: ja
+Kleinreparatur Einzelbetrag max: 100
+Kleinreparatur Jahresbetrag max: 400

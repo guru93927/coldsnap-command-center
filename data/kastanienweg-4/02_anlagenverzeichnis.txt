@@ -1,0 +1,32 @@
+ANLAGENVERZEICHNIS  Kastanienweg 4  (SYNTHETISCH)
+=================================================================
+---
+Anlage: KW-FW-01
+Bezeichnung: Fernwärme-Übergabestation
+Kategorie: heating
+Ort: Keller
+Betrifft: Gebäude
+Einbau: 2016-09-01
+Errichter: V11
+Gewährleistung bis: 2018-09-01
+Wartungsvertrag: ja
+Wartung durch: V11
+Letzte Wartung: 2026-09-22
+---
+Anlage: KW-AUSS-01
+Bezeichnung: Außenwasserhahn Hof
+Kategorie: outdoor_tap
+Ort: Hof / Kellerwand
+Betrifft: Gebäude
+Einbau: 1958-01-01
+Errichter: unbekannt
+Gewährleistung bis: keine
+---
+Anlage: KW-STEIG-01
+Bezeichnung: Trinkwasserleitungen Kupfer
+Kategorie: water_pipes
+Ort: Steigschacht
+Betrifft: Gebäude
+Einbau: 2009-03-01
+Errichter: V01
+Gewährleistung bis: 2014-03-01

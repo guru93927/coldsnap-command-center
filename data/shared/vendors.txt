@@ -1,0 +1,68 @@
+DIENSTLEISTERLISTE  (SYNTHETISCH, fiktive Firmen und Nummern)
+=================================================================
+---
+Dienstleister: V01
+Name: Sanitär Krüger GmbH
+Gewerk: plumbing
+Notdienst 24/7: ja
+Telefon: 0211-555-0101
+---
+Dienstleister: V02
+Name: Heizungsbau Yilmaz
+Gewerk: heating
+Notdienst 24/7: ja
+Telefon: 0211-555-0102
+---
+Dienstleister: V03
+Name: Elektro Schmitz
+Gewerk: electrical
+Notdienst 24/7: nein
+Telefon: 0211-555-0103
+---
+Dienstleister: V04
+Name: Schlüsseldienst Altstadt
+Gewerk: locksmith
+Notdienst 24/7: ja
+Telefon: 0211-555-0104
+---
+Dienstleister: V05
+Name: Fensterbau Rhein GmbH
+Gewerk: windows
+Notdienst 24/7: nein
+Telefon: 0211-555-0105
+---
+Dienstleister: V06
+Name: Dachdecker Brandt
+Gewerk: roofing
+Notdienst 24/7: ja
+Telefon: 0211-555-0106
+---
+Dienstleister: V07
+Name: Schädlingsbekämpfung Nord
+Gewerk: pest
+Notdienst 24/7: nein
+Telefon: 0211-555-0107
+---
+Dienstleister: V08
+Name: Hausmeisterservice Lind
+Gewerk: handyman
+Notdienst 24/7: nein
+Telefon: 0211-555-0108
+---
+Dienstleister: V09
+Name: Bautrocknung & Schimmel West
+Gewerk: mould
+Notdienst 24/7: nein
+Telefon: 0211-555-0109
+---
+Dienstleister: V10
+Name: Winterdienst Rhein-Ruhr
+Gewerk: winter_service
+Notdienst 24/7: ja
+Telefon: 0211-555-0110
+---
+Dienstleister: V11
+Name: Wärmetechnik Ruhr GmbH
+Gewerk: heating
+Notdienst 24/7: ja
+Telefon: 0201-555-0111

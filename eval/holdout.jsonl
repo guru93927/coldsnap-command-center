@@ -1,0 +1,20 @@
+{"id":101,"unit":"WE01","message":"Unter dem Waschbecken ist alles nass, das Rohr ist undicht","category":"water_leak","urgency":"urgent","cost_bearer":"warranty","vendor":"V01"}
+{"id":102,"unit":"WE05","message":"Water is leaking from the pipe behind the toilet","category":"water_leak","urgency":"urgent","cost_bearer":"warranty","vendor":"V01"}
+{"id":103,"unit":"WE02","message":"Musluk sürekli damlıyor","category":"water_leak","urgency":"normal","cost_bearer":"tenant_small_repair","vendor":"V01"}
+{"id":104,"unit":"WE06","message":"Der Spülkasten läuft die ganze Zeit nach","category":"water_leak","urgency":"normal","cost_bearer":"landlord","vendor":"V01"}
+{"id":105,"unit":"WE04","message":"Heizkörper im Bad wird nicht warm, die anderen schon","category":"heating","urgency":"urgent","cost_bearer":"warranty","vendor":"V02"}
+{"id":106,"unit":"WE02","message":"Kaloriferler ısınmıyor, ev çok soğuk","category":"heating","urgency":"urgent","cost_bearer":"warranty","vendor":"V02"}
+{"id":107,"unit":"WE05","message":"Only lukewarm water comes out of the tap in the mornings","category":"hot_water","urgency":"urgent","cost_bearer":"landlord","vendor":"V02"}
+{"id":108,"unit":"WE03","message":"The power keeps cutting out in the whole flat","category":"electrical","urgency":"urgent","cost_bearer":"landlord","vendor":"V03"}
+{"id":109,"unit":"WE01","message":"Die Sicherung fliegt ständig raus","category":"electrical","urgency":"urgent","cost_bearer":"landlord","vendor":"V03"}
+{"id":110,"unit":"WE03","message":"The front door of the building doesn't lock anymore","category":"lock_door","urgency":"urgent","cost_bearer":"landlord","vendor":"V04"}
+{"id":111,"unit":"WE06","message":"Meine Tür ist zugefallen und ich stehe draußen","category":"lock_door","urgency":"urgent","cost_bearer":"tenant","vendor":"V04"}
+{"id":112,"unit":"WE04","message":"Mein Sohn hat die Glasscheibe der Balkontür eingeschlagen","category":"window_glass","urgency":"urgent","cost_bearer":"tenant","vendor":"V05"}
+{"id":113,"unit":"WE01","message":"Das Fenster im Wohnzimmer zieht und schließt nicht richtig","category":"window_glass","urgency":"urgent","cost_bearer":"warranty","vendor":"V05"}
+{"id":114,"unit":"WE06","message":"Hagel hat gestern Ziegel vom Dach gelöst, jetzt kommt Wasser rein","category":"roof","urgency":"urgent","cost_bearer":"insurance","vendor":"V06"}
+{"id":115,"unit":"WE03","message":"I saw a rat in the bin area","category":"pest","urgency":"urgent","cost_bearer":"landlord","vendor":"V07"}
+{"id":116,"unit":"WE02","message":"Banyoda tavanda küf var","category":"mould","urgency":"normal","cost_bearer":"assessment_required","vendor":"V09"}
+{"id":117,"unit":"WE03","message":"The oven doesn't heat up","category":"appliance","urgency":"normal","cost_bearer":"tenant","vendor":null,"note":"only the dishwasher is landlord-supplied and in the asset register; label kept as written before running"}
+{"id":118,"unit":"WE05","message":"There's a strong gas smell in the stairwell","category":"gas","urgency":"emergency","cost_bearer":"landlord","vendor":"V02"}
+{"id":119,"unit":"WE04","message":"Rauchmelder im Flur piept alle paar Minuten","category":"smoke_detector","urgency":"normal","cost_bearer":"landlord","vendor":"V08"}
+{"id":120,"unit":"WE01","message":"Können Sie mir eine Kopie meines Mietvertrags schicken?","category":"other","urgency":"normal","cost_bearer":"manager_review","vendor":null}

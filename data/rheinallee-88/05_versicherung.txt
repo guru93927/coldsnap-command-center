@@ -1,0 +1,11 @@
+VERSICHERUNGSÜBERSICHT  (SYNTHETISCH, fiktiver Versicherer)
+=================================================================
+---
+Police: WG-2024-771530
+Art: Wohngebäudeversicherung
+Versicherer: RheinSicher Versicherung AG
+Gedeckte Gefahren: water_leak, frost, storm, fire
+Ausschlüsse: Verschleiß, Schimmel durch Lüftungsverhalten
+Obliegenheiten: In der kalten Jahreszeit alle Gebäude und Gebäudeteile beheizen und genügend häufig kontrollieren oder dort alle wasserführenden Anlagen absperren, entleeren und entleert halten.
+Selbstbeteiligung: 1000
+Meldefrist Tage: 7

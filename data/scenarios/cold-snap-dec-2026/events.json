@@ -1,0 +1,118 @@
+{
+ "date": "2026-12-03",
+ "prevention_run_at": "2026-12-01T18:00:00",
+ "failure": {
+  "building": "OBJ-RHEIN88",
+  "asset": "RA-HEIZ-01",
+  "fails_at": "2026-12-03T04:50",
+  "part": "Zündelektrode"
+ },
+ "vendor_model": {
+  "ack_min": 8,
+  "travel_night_min": 75,
+  "travel_day_min": 60,
+  "diagnose_min": 20,
+  "repair_min": 30,
+  "fetch_part_min": 150,
+  "night_until_hour": 7
+ },
+ "baseline": {
+  "office_opens": "08:00",
+  "triage_min_per_ticket": 6,
+  "on_call_response_min": 20
+ },
+ "feed": [
+  {
+   "t": "05:58",
+   "type": "tenant",
+   "unit": "RA-03",
+   "text": "Heizung ist komplett kalt, alle Heizkörper sind aus"
+  },
+  {
+   "t": "06:07",
+   "type": "tenant",
+   "unit": "RA-06",
+   "text": "No heating at all in the flat, it's freezing"
+  },
+  {
+   "t": "06:15",
+   "type": "tenant",
+   "unit": "RA-01",
+   "text": "Kaloriferler hiç ısınmıyor, ev buz gibi"
+  },
+  {
+   "t": "06:21",
+   "type": "tenant",
+   "unit": "RA-07",
+   "text": "Bei uns sind alle Heizkörper eiskalt"
+  },
+  {
+   "t": "06:30",
+   "type": "tenant",
+   "unit": "WE04",
+   "text": "Ein Heizkörper im Schlafzimmer bleibt kalt und gluckert"
+  },
+  {
+   "t": "06:35",
+   "type": "checkin",
+   "building": "OBJ-LIND12",
+   "vendor": "V10",
+   "photo": true
+  },
+  {
+   "t": "06:40",
+   "type": "tenant",
+   "unit": "RA-02",
+   "text": "Heizung geht nicht!!"
+  },
+  {
+   "t": "06:50",
+   "type": "checkin",
+   "building": "OBJ-RHEIN88",
+   "vendor": "V10",
+   "photo": true
+  },
+  {
+   "t": "06:52",
+   "type": "tenant",
+   "unit": "RA-05",
+   "text": "radiators cold since early morning, any update?"
+  },
+  {
+   "t": "07:05",
+   "type": "tenant",
+   "unit": "WE04",
+   "text": "Hat geklappt, der Heizkörper ist wieder warm. Danke!"
+  },
+  {
+   "t": "07:10",
+   "type": "tenant",
+   "unit": "WE05",
+   "text": "Hot water is lukewarm again this morning"
+  },
+  {
+   "t": "07:20",
+   "type": "tenant",
+   "unit": "KW-05",
+   "text": "Der Gehweg vor dem Haus ist spiegelglatt, bin fast ausgerutscht"
+  },
+  {
+   "t": "07:30",
+   "type": "tenant",
+   "unit": "RA-08",
+   "text": "Wann kommt jemand? Es ist sehr kalt und wir haben ein Baby"
+  },
+  {
+   "t": "08:05",
+   "type": "tenant",
+   "unit": "KW-02",
+   "text": "There's black mould appearing on the bedroom window frame"
+  },
+  {
+   "t": "09:30",
+   "type": "tenant",
+   "unit": "RA-04",
+   "text": "Immer noch kalt bei uns"
+  }
+ ]
+}

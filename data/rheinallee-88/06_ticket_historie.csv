@@ -1,0 +1,5 @@
+date,unit,category,asset,description,vendor,cost_eur,paid_by
+2025-12-12,RA-02,heating,RA-HEIZ-01,Heizung nachts ausgefallen (Brennerstörung),V02,380,landlord
+2026-01-20,RA-05,heating,RA-HEIZ-01,"Störung Brenner, Reset durch Techniker",V02,160,landlord
+2026-02-03,RA-07,heating,RA-HEIZ-01,"Kessel taktet, Heizkörper nur lauwarm",V02,240,landlord
+2026-06-18,RA-04,water_leak,,Spülkasten läuft nach,V01,95,landlord

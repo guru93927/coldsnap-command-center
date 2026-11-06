@@ -1,0 +1,41 @@
+ANLAGENVERZEICHNIS  Rheinallee 88  (SYNTHETISCH)
+=================================================================
+---
+Anlage: RA-HEIZ-01
+Bezeichnung: Gas-Niedertemperaturkessel Calora NT-35
+Kategorie: heating
+Ort: Keller / Heizungsraum
+Betrifft: Gebäude
+Einbau: 2006-10-02
+Errichter: unbekannt
+Gewährleistung bis: 2008-10-02
+Wartungsvertrag: ja (jährlich)
+Wartung durch: V02
+Letzte Wartung: 2025-10-14
+---
+Anlage: RA-STEIG-01
+Bezeichnung: Trinkwasserleitungen verzinkter Stahl
+Kategorie: water_pipes
+Ort: Steigschacht
+Betrifft: Gebäude
+Einbau: 1974-06-01
+Errichter: unbekannt
+Gewährleistung bis: keine
+---
+Anlage: RA-AUSS-01
+Bezeichnung: Außenwasserhahn Garten (Kellerwand Nord)
+Kategorie: outdoor_tap
+Ort: Garten / Nordseite
+Betrifft: Gebäude
+Einbau: 1974-06-01
+Errichter: unbekannt
+Gewährleistung bis: keine
+---
+Anlage: RA-DACH-01
+Bezeichnung: Flachdach Bitumenabdichtung
+Kategorie: roof
+Ort: Dach
+Betrifft: Gebäude
+Einbau: 2003-05-01
+Errichter: unbekannt
+Gewährleistung bis: keine

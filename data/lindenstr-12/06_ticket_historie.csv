@@ -1,0 +1,8 @@
+date,unit,category,asset,description,vendor,cost_eur,paid_by
+2025-03-11,WE02,water_leak,A-STEIG-01,Wasserfleck an der Badezimmerdecke,V01,640,insurance
+2025-11-20,WE06,roof,A-DACH-01,Feuchtigkeit an Dachschräge nach Sturm,V06,1200,insurance
+2026-02-03,WE04,lock_door,,Briefkastenschloss klemmt,V08,45,tenant
+2026-07-04,WE02,pest,,Mäuse im Keller,V07,180,landlord
+2026-08-29,WE05,hot_water,A-ZIRK-01,Warmwasser braucht sehr lange,V02,0,landlord
+2026-09-30,WE01,hot_water,A-ZIRK-01,morgens kaum warmes Wasser,V02,0,landlord
+2026-10-21,WE03,hot_water,A-ZIRK-01,lukewarm water in the shower,V02,0,landlord
